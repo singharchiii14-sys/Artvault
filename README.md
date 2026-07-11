@@ -11,7 +11,7 @@ A full-stack MERN web application enabling artists to upload, showcase, and secu
 | **🎨 Frontend** | [https://client-five-psi-40.vercel.app](https://client-five-psi-40.vercel.app) |
 | **⚙️ Backend API** | [https://artvault-api-48h5.onrender.com](https://artvault-api-48h5.onrender.com/api/health) |
 
-> **Note:** Render free tier may cold-start (~30s) on first request.
+> **Note:** Render free tier may cold-start (~30s) on first request. 
 
 ---
 
